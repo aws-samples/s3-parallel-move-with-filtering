@@ -50,3 +50,14 @@ Supported REST Endpoints:
                 ],
                 "successfulMove": "True"
             }
+
+## Contributors
+
+Chris M. - @mtcheli
+Leonardo K. - @kanagusk
+Pranay S. - @pranays
+Zoran I. - @zorani
+
+## License
+
+This library is licensed under the MIT-0 License. See the LICENSE file.
