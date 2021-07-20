@@ -54,8 +54,11 @@ Supported REST Endpoints:
 ## Contributors
 
 Chris M. - @mtcheli
+
 Leonardo K. - @kanagusk
+
 Pranay S. - @pranays
+
 Zoran I. - @zorani
 
 ## License
