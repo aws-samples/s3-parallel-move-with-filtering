@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <aws.sdk.version>1.11.773</aws.sdk.version>
+        <aws.sdk.version>1.12.261</aws.sdk.version>
         <jacoco.maven.plugin.version>0.8.4</jacoco.maven.plugin.version>
         <aws-java-lambda-core.version>1.2.0</aws-java-lambda-core.version>
     	<aws-java-lamba-events.version>2.2.7</aws-java-lamba-events.version>
